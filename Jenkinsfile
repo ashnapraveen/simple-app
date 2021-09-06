@@ -23,7 +23,7 @@ pipeline {
                 ],
                     credentialsId: 'nexus3', 
                     groupId: 'in.javahome', 
-                    nexusUrl: '172.31.19.187', 
+                    nexusUrl: '18.190.26.84', 
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
                     repository: 'sample-test-release', 
